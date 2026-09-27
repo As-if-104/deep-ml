@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:10:32.320Z",
+  "generated_at": "2026-09-27T18:22:58.868Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-09-27T18:10:26.752Z",
       "language": "python",
       "lines": 25
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-09-27T18:22:52.881Z",
+      "last_pushed_at": "2026-09-27T18:22:52.881Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
